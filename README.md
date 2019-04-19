@@ -1,2 +1,2 @@
-# yep-camp
+# yelp-camp
 yelp camp project
